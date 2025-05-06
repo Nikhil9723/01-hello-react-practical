@@ -7,7 +7,7 @@ function App() {
       <p>Email: nikhil.prajapati@simformsolutions.com</p>
       <p>
         Github ID:
-        <a href="https://github.com/Nikhil9723">https://github.com/Nikhil9723</a>
+        <a href="mailto:https://github.com/Nikhil9723">https://github.com/Nikhil9723</a>
       </p>
       
     </>
